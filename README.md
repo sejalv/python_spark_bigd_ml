@@ -1,7 +1,7 @@
 This repo is based on examples/projects tried from the Udemy course:
 [Spark and Python for Big Data with PySpark](https://www.udemy.com/spark-and-python-for-big-data-with-pyspark/)
 
-Objectives:
+**Objectives:**
 * Use Python and Spark together to analyze Big Data
 * Learning to setup Spark on local (Linux), Amazon Web Services EC2, and Databricks
 * Use Spark Streaming to Analyze Tweets in Real Time.
